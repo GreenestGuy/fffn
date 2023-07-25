@@ -7,7 +7,7 @@ height: 5677px;
     margin: auto;
 }
 .container{
-
+ 
 }
 
 
@@ -87,9 +87,10 @@ display: inline-block;
 }
 .i{
     display: inline-block;
-    width: 155px;
+    width: 24px;
     height: 24px;
-    gap: 5px;
+    flex-shrink: 0;
+       gap: 5px;
     flex-shrink: 0;
     margin-top:   0px ;
     margin-left:  550px;
@@ -105,4 +106,14 @@ display: inline-block;
     border-radius: 15px;
     background: #FFF;
 
+}
+.h{
+    color: #C93;
+font-family: Muller;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: auto;
+padding: 0%;
 }
